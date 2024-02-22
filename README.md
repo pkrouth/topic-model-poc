@@ -11,4 +11,4 @@ Common applications of topic model:
 - Extract topics (understanding of data) from documents containing various formats.
 
 
-In this repo, I am open-sourcing some of the work done for creating a semantic search engine, driven by topic models trained on judgement text. 
+In this repo, I am open-sourcing some of the work done for creating a semantic search engine, driven by topic models trained on judgement text. An example of visualization of topic models (using LDAvis) for a differnet corpus is shown here [Download for graphics](https://github.com/pkrouth/topic-model-poc/blob/6001e09c1237680f8563586fd69eed658244108a/EDA_10_topics.html)
