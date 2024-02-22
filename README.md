@@ -3,7 +3,7 @@ Topic model on Legal text: Judgements
 
 Topic modeling is a machine learning model that leverages unsupervised learning to analyze and automatically identify the clusters of similar words within the corpus. This appraich is frequently used to discover hidden semantic patterns portrayed by a text corpus.
 
-David Blei, the author of Topic Modeling has graciocly written a well-explained article titled [Probabilistic Topic Models](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf). Even in the age of ChatGPT, these topic models are very practical for gaining insights from the data.
+[David Blei](http://www.cs.columbia.edu/~blei/index.html), the author of Topic Modeling has also written a well-explained article titled [Probabilistic Topic Models](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf). Even in the age of ChatGPT, these topic models are quite practical for EDA or gaining insights from the data.
 
 Common applications of topic model:
 - Real-time analysis on unstructured textual data
