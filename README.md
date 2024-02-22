@@ -1,4 +1,4 @@
-# topic-model
+# Topic model for semantic search
 Topic model on Legal text: Judgements
 
 Topic modeling is a machine learning model that leverages unsupervised learning to analyze and automatically identify the clusters of similar words within the corpus. This appraich is frequently used to discover hidden semantic patterns portrayed by a text corpus.
